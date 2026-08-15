@@ -37,7 +37,7 @@ arrow @ file:///C:/miniconda3/conda-bld/arrow_1761560549461/work
 astroid @ file:///C:/miniconda3/conda-bld/astroid_1759355341836/work
 astropy @ file:///C:/Users/task_177184289367089/croot/astropy_1771842996388/work
 astropy-iers-data @ file:///C:/Users/task_177375511247354/croot/astropy-iers-data_1773755214282/work
-asttokens @ file:///C:/Users/task_177313515777345/croot/asttokens_1773135664785/work
+asttokens==3.0.2
 async-lru @ file:///C:/miniconda3/conda-bld/async-lru_1761121577604/work
 asyncssh @ file:///C:/miniconda3/conda-bld/asyncssh_1763120359147/work
 atomicwrites==1.4.0
@@ -67,9 +67,9 @@ choreographer==1.3.0
 click==8.4.2
 cligj==0.7.2
 cloudpickle @ file:///C:/miniconda3/conda-bld/cloudpickle_1764930583045/work
-colorama @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/colorama_1729036581634/work
+colorama==0.4.6
 colorcet @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/colorcet_1729053366498/work
-comm @ file:///C:/miniconda3/conda-bld/comm_1763119281973/work
+comm==0.2.3
 conda @ file:///C:/Users/task_177140157604822/croot/conda_1771402255672/work/conda-src
 conda-anaconda-telemetry @ file:///croot/conda-anaconda-telemetry_1755883788794/work
 conda-anaconda-tos @ file:///C:/b/abs_c9yejtsx9g/croot/conda-anaconda-tos_1755123332641/work
@@ -93,7 +93,7 @@ dacite==1.9.2
 dash==4.1.0
 dask @ file:///C:/Users/task_177494883550690/croot/dask-core_1774948934666/work
 datashader @ file:///C:/b/abs_0dvz2ks6tk/croot/datashader_1756382478739/work
-debugpy @ file:///C:/miniconda3/conda-bld/debugpy_1762421658007/work
+debugpy==1.8.21
 decorator @ file:///C:/miniconda3/conda-bld/decorator_1757341249916/work
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630511840874/work
@@ -104,7 +104,7 @@ docstring-to-markdown @ file:///C:/miniconda3/conda-bld/docstring-to-markdown_17
 docutils @ file:///C:/miniconda3/conda-bld/docutils_1761746640431/work
 et_xmlfile @ file:///C:/b/abs_b0ifp_j3js/croot/et_xmlfile_1756462499666/work
 evalidate @ file:///C:/b/abs_573nc1ymt6/croot/evalidate_1743606028415/work
-executing @ file:///C:/miniconda3/conda-bld/executing_1757061255268/work
+executing==2.2.1
 fastjsonschema @ file:///C:/miniconda3/conda-bld/python-fastjsonschema_1763718729498/work
 filelock @ file:///C:/Users/task_176943977277622/croot/filelock_1769440567511/work
 filetype==1.2.0
@@ -143,12 +143,12 @@ inflection @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/infle
 iniconfig @ file:///C:/Users/task_176735683625021/croot/iniconfig_1767356939856/work
 intake @ file:///C:/Users/task_177383538359654/croot/intake_1773835497366/work
 intervaltree @ file:///home/task_176795483829571/croot/intervaltree_1767954924476/work
-ipykernel @ file:///C:/miniconda3/conda-bld/ipykernel_1762946092426/work
+ipykernel==7.3.0
 ipympl @ file:///C:/Users/task_176830980224807/croot/ipympl_1768309905876/work
-ipython @ file:///C:/Users/task_177399614752993/croot/ipython_1773996240200/work
+ipython==9.16.1
 ipython-genutils==0.2.0
 ipython-sql==0.5.0
-ipython_pygments_lexers @ file:///C:/b/abs_b66hj1lo19/croot/ipython_pygments_lexers_1744753262043/work
+ipython_pygments_lexers==1.1.1
 ipywidgets @ file:///C:/miniconda3/conda-bld/ipywidgets_1761560177683/work
 isoduration==20.11.0
 isort @ file:///C:/miniconda3/conda-bld/isort_1760089000590/work
@@ -158,7 +158,7 @@ itsdangerous @ file:///C:/Users/dev-admin/buildout/croot/itsdangerous_1732929022
 jaraco.classes @ file:///C:/b/abs_6erueoob1v/croot/jaraco.classes_1755516340851/work
 jaraco.context @ file:///C:/Users/task_176947773609372/croot/jaraco.context_1769477902330/work
 jaraco.functools @ file:///C:/Users/task_176838914677671/croot/jaraco.functools_1768389438594/work
-jedi @ file:///C:/b/abs_3a2kbnlclc/croot/jedi_1733987412687/work
+jedi==0.20.0
 jellyfish @ file:///C:/miniconda3/conda-bld/jellyfish_1764243816637/work
 Jinja2 @ file:///C:/b/abs_920kup4e6u/croot/jinja2_1741711580669/work
 jmespath @ file:///C:/Users/task_177013598584923/croot/jmespath_1770136094871/work
@@ -172,8 +172,8 @@ jupyter @ file:///C:/Users/dev-admin/buildout/croot/jupyter_1742594998199/work
 jupyter-console @ file:///C:/Users/dev-admin/buildout/croot/jupyter_console_1739561496258/work
 jupyter-events @ file:///C:/b/abs_9cm3qlticu/croot/jupyter_events_1741184612840/work
 jupyter-lsp @ file:///C:/Users/task_176977262016448/croot/jupyter-lsp_1769772728533/work
-jupyter_client @ file:///C:/Users/task_176839910383316/croot/jupyter_client_1768399226683/work
-jupyter_core @ file:///C:/miniconda3/conda-bld/jupyter_core_1764588349507/work
+jupyter_client==8.9.1
+jupyter_core==5.9.1
 jupyter_server @ file:///C:/Users/task_176961320926380/croot/jupyter_server_1769613451698/work
 jupyter_server_terminals @ file:///C:/Users/task_177028947700273/croot/jupyter_server_terminals_1770289610577/work
 jupyterlab @ file:///C:/Users/task_177021308588592/croot/jupyterlab_1770213187719/work
@@ -203,7 +203,7 @@ Markdown @ file:///C:/b/abs_f9hbi7znfr/croot/markdown_1746114643651/work
 markdown-it-py @ file:///C:/Users/task_176700171154409/croot/markdown-it-py_1767001834659/work
 MarkupSafe @ file:///C:/b/abs_a0ma7ge0jc/croot/markupsafe_1738584052792/work
 matplotlib==3.10.0
-matplotlib-inline @ file:///C:/miniconda3/conda-bld/matplotlib-inline_1762779276169/work
+matplotlib-inline==0.2.2
 mccabe @ file:///opt/conda/conda-bld/mccabe_1644221741721/work
 mdit-py-plugins @ file:///C:/b/abs_88j0o6_jpr/croot/mdit-py-plugins_1756381038807/work
 mdurl @ file:///C:/miniconda3/conda-bld/mdurl_1758552277768/work
@@ -232,6 +232,7 @@ nb_conda_kernels @ file:///C:/miniconda3/conda-bld/nb_conda_kernels_176176903117
 nbclient @ file:///C:/Users/task_177157717206701/croot/nbclient_1771577293073/work
 nbconvert @ file:///C:/Users/task_177212126656282/croot/nbconvert-meta_1772121325922/work
 nbformat @ file:///C:/Users/dev-admin/buildout/croot/nbformat_1739559077024/work
+nest-asyncio2==1.7.2
 nest_asyncio @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/nest-asyncio_1729042999160/work
 networkx @ file:///C:/miniconda3/conda-bld/networkx_1765378660985/work
 nltk @ file:///C:/Users/task_177249122975770/croot/nltk_1772491332003/work
@@ -243,13 +244,13 @@ numpy==2.3.5
 numpydoc @ file:///C:/Users/task_176777900272236/croot/numpydoc_1767779194381/work
 openpyxl @ file:///C:/b/abs_6cdczthntz/croot/openpyxl_1736371239628/work
 orjson==3.11.9
-packaging @ file:///C:/miniconda3/conda-bld/packaging_1761049099114/work
+packaging==26.3
 pandas @ file:///C:/miniconda3/conda-bld/pandas_1762332401545/work/dist/pandas-2.3.3-cp313-cp313-win_amd64.whl#sha256=9d93408ded21463dc4a0cce0d61428cd756d3f130f78ca53bfb6d1c81fedaa66
 pandocfilters @ file:///C:/miniconda3/conda-bld/pandocfilters_1756977623249/work
 panel @ file:///C:/Users/task_177313581951277/croot/panel_1773135936199/work
 param @ file:///C:/Users/task_177399615059762/croot/param_1773996240187/work
 parsel @ file:///C:/miniconda3/conda-bld/parsel_1761560684296/work
-parso @ file:///C:/miniconda3/conda-bld/parso_1762781952168/work
+parso==0.8.7
 partd @ file:///C:/b/abs_e1k4ow1dv4/croot/partd_1736803443606/work
 pathspec @ file:///C:/miniconda3/conda-bld/pathspec_1761820745063/work
 patsy @ file:///C:/Users/task_176761400813227/croot/patsy_1767614396466/work
@@ -259,18 +260,18 @@ pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 pillow @ file:///C:/Users/task_177247540167737/croot/pillow_1772475505084/work
 pkce @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pkce_1729049216383/work
 pkginfo @ file:///C:/miniconda3/conda-bld/pkginfo_1765439573823/work
-platformdirs @ file:///C:/Users/task_177365232702842/croot/platformdirs_1773652999051/work
+platformdirs==4.11.3
 plotly @ file:///C:/Users/task_177375507055465/croot/plotly_1773755135031/work
 pluggy @ file:///C:/b/abs_dfec_m79vo/croot/pluggy_1733170145382/work
 prettytable==3.17.0
 prometheus_client @ file:///C:/Users/task_177273256982068/croot/prometheus_client_1772733420133/work
-prompt_toolkit @ file:///C:/miniconda3/conda-bld/prompt-toolkit_1761745018781/work
+prompt_toolkit==3.0.53
 propcache @ file:///C:/miniconda3/conda-bld/propcache_1765457322725/work
 Protego @ file:///C:/Users/task_177222424564954/croot/protego_1772224475293/work
 protobuf @ file:///C:/Users/task_177065976902738/croot/protobuf_1770660512818/work/bazel-bin/python/dist/protobuf-6.33.5-cp313-abi3-win_amd64.whl#sha256=eb160a06ee4fd84f2395ed1100d23f1da60083c1c0af7adb75ec55cba92ef7c9
-psutil @ file:///C:/miniconda3/conda-bld/psutil_1761896538278/work
+psutil==7.2.2
 ptyprocess @ file:///opt/miniconda3/conda-bld/ptyprocess_1762424170819/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl#sha256=3470be7f810474c8a2ecfcd6e02acc6aea8483ab595417fa4e336362a349933e
-pure_eval @ file:///C:/miniconda3/conda-bld/pure_eval_1757067099531/work
+pure_eval==0.2.3
 puremagic==2.2.0
 py-cpuinfo @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/py-cpuinfo_1729051209925/work
 pyarrow @ file:///C:/Users/task_177385268734640/croot/pyarrow_1773853499121/work/python
@@ -290,7 +291,7 @@ pydocstyle @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pydoc
 pyerfa @ file:///C:/b/abs_35x4fn08_4/croot/pyerfa_1738083087918/work
 pyflakes @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pyflakes_1729051360949/work
 PyGithub @ file:///C:/miniconda3/conda-bld/pygithub_1762271604729/work
-Pygments @ file:///C:/miniconda3/conda-bld/pygments_1762431428918/work
+Pygments==2.20.0
 PyJWT @ file:///C:/Users/task_177377332477733/croot/pyjwt_1773773824330/work
 pylint @ file:///C:/Users/task_176795540273237/croot/pylint_1767955513023/work
 pylint-venv @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pylint-venv_1729062196487/work
@@ -309,7 +310,7 @@ PyQt6_sip @ file:///C:/Users/task_177247649878782/croot/pyqt-split_1772477407523
 PySide6==6.10.2
 PySocks @ file:///C:/miniconda3/conda-bld/pysocks_1761753030965/work
 pytest @ file:///C:/Users/task_176978762095018/croot/pytest_1769787734883/work
-python-dateutil @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/python-dateutil_1729038406576/work
+python-dateutil==2.9.0.post0
 python-dotenv @ file:///C:/Users/task_176855922952874/croot/python-dotenv_1768559755085/work
 python-json-logger @ file:///C:/miniconda3/conda-bld/python-json-logger_1764590262375/work
 python-lsp-black @ file:///C:/b/abs_56xq_70uqy/croot/python-lsp-black_1744023225294/work
@@ -328,7 +329,7 @@ pywin32 @ file:///C:/b/abs_6c9w_vp9zi/croot/pywin32_1754670534373/work
 pywin32-ctypes @ file:///C:/Users/task_176829651200310/croot/pywin32-ctypes_1768296624234/work
 pywinpty @ file:///C:/b/abs_883wh7sts8/croot/pywinpty_1741871674963/work
 PyYAML @ file:///C:/miniconda3/conda-bld/pyyaml_1763465513644/work
-pyzmq @ file:///C:/miniconda3/conda-bld/pyzmq_1762375609051/work
+pyzmq==27.1.0
 QDarkStyle @ file:///croot/qdarkstyle_1709231003551/work
 qstylizer @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/qstylizer_1729063143005/work/dist/qstylizer-0.2.2-py2.py3-none-any.whl#sha256=9e6ed4af5d7d32c75075c807064c85e792b62db8b603152b16608d504e3ed165
 QtAwesome @ file:///C:/Users/task_177080631011222/croot/qtawesome_1770806424358/work
@@ -372,7 +373,7 @@ shellingham @ file:///C:/miniconda3/conda-bld/shellingham_1761912227081/work
 shiboken6==6.10.2
 simplejson==4.1.1
 sip @ file:///C:/Users/task_177080701331114/croot/sip_1770807606096/work
-six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
+six==1.17.0
 sklearn-compat @ file:///C:/Users/task_176789485007486/croot/sklearn-compat_1767894977280/work
 slicer==0.0.8
 smmap @ file:///tmp/build/80754af9/smmap_1611694433573/work
@@ -391,7 +392,7 @@ spyder @ file:///C:/Users/task_177158054568911/croot/spyder_1771580945389/work
 spyder-kernels @ file:///C:/Users/task_177149202674340/croot/spyder-kernels_1771492156755/work
 SQLAlchemy @ file:///C:/Users/task_177375504999605/croot/sqlalchemy_1773755120406/work
 sqlparse==0.5.5
-stack_data @ file:///C:/miniconda3/conda-bld/stack_data_1757067051197/work
+stack-data==0.6.3
 statsmodels @ file:///C:/miniconda3/conda-bld/statsmodels_1765533127646/work
 streamlit @ file:///C:/Users/task_177273408241393/croot/streamlit-split_1772735034458/work/streamlit
 superqt @ file:///C:/miniconda3/conda-bld/superqt_1758274748606/work
@@ -412,9 +413,9 @@ toml @ file:///tmp/build/80754af9/toml_1616166611790/work
 tomli @ file:///C:/Users/task_176829653470725/croot/tomli_1768296655778/work
 tomlkit @ file:///C:/miniconda3/conda-bld/tomlkit_1762896656167/work
 toolz @ file:///C:/miniconda3/conda-bld/toolz_1764677736320/work
-tornado @ file:///C:/Users/task_177430355453247/croot/tornado_1774303656987/work
+tornado==6.5.8
 tqdm @ file:///C:/Users/task_177139862118811/croot/tqdm_1771398768256/work
-traitlets @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/traitlets_1729038154689/work
+traitlets==5.16.1
 truststore @ file:///C:/miniconda3/conda-bld/truststore_1762521027919/work
 Twisted @ file:///C:/miniconda3/conda-bld/twisted_1762252507674/work
 twisted-iocpsupport @ file:///C:/b/abs_6883jqhfrn/croot/twisted-iocpsupport_1736544552637/work
@@ -422,7 +423,7 @@ typeguard==4.5.1
 typer==0.20.0
 typer-slim==0.20.0
 typing-inspection @ file:///C:/miniconda3/conda-bld/typing-inspection_1760614188477/work
-typing_extensions @ file:///C:/b/abs_ecq8gc0vbm/croot/typing_extensions_1756281142218/work
+typing_extensions==4.16.0
 tzdata @ file:///home/task_176829656558347/croot/python-tzdata_1768296637279/work
 uc-micro-py @ file:///C:/miniconda3/conda-bld/uc-micro-py_1758552131350/work
 ujson @ file:///C:/miniconda3/conda-bld/ujson_1763119279088/work
@@ -432,7 +433,7 @@ urllib3 @ file:///C:/Users/task_176781035981662/croot/urllib3_1767810483132/work
 visions==0.8.1
 w3lib @ file:///C:/miniconda3/conda-bld/w3lib_1764240224379/work
 watchdog @ file:///C:/b/abs_29_7vso69r/croot/watchdog_1740409940307/work
-wcwidth @ file:///C:/Users/task_176777896000262/croot/wcwidth_1767779216794/work
+wcwidth==0.8.2
 webcolors==25.10.0
 webencodings @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/webencodings_1729039571130/work
 websocket-client @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/websocket-client_1729041881346/work
