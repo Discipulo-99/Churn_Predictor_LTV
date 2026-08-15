@@ -1,0 +1,16 @@
+Explicación del Dataset de Negocio
+
+El archivo raw_customer_data.csv contiene $11$ variables clave estratégicamente diseñadas:
+
+#   | Variable            | Tipo          | Descripción de Negocio
+1   | CustomerID          | Texto         | Identificador único del cliente.
+2   | TenureMonths        | Numérico      | Antigüedad del cliente en meses.
+3   | ContractType        | Categórico    | Tipo de contrato (Month-to-Month, One Year, Two Year).
+4   | PaymentMethod       | Categórico    | Método de pago (Electronic Check, Credit Card, etc.).
+5   | MonthlyCharges      | Numérico      | Tarifa o recurrencia mensual gastada ($$).
+6   | TotalCharges        | Numérico      | Histórico total facturado ($$).
+7   | TechSupportTickets  | Numérico      | Número de quejas o tickets a soporte técnico.
+8   | DaysSinceLastLogin  | Numérico      | Días transcurridos desde su última actividad en la plataforma.
+9   | DiscountUsed        | Binario       | Indica si el cliente usa alguna promoción o descuento ($0$ o $1$).
+10  | Churn               | Binario       | Target Clasificación: $1$ si el cliente se fue, $0$ si permanece.
+11  | FutureLTV_12M       | Numérico      | Target Regresión: Valor estimado del cliente a $12$meses vista ($$).
